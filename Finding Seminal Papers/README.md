@@ -1,0 +1,1 @@
+Link to web display of [this iPython Notebook](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/JamesPHoughton/Published_Blog_Scripts/master/Finding%20Seminal%20Papers/Finding%20seminal%20papers.ipynb?create=1)
